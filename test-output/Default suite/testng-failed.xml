@@ -5,7 +5,7 @@
     <classes>
       <class name="Demo1_GET_REQUEST">
         <methods>
-          <include name="weatherAtlanta"/>
+          <include name="getCityWeather"/>
         </methods>
       </class> <!-- Demo1_GET_REQUEST -->
     </classes>
